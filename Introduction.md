@@ -5,4 +5,5 @@ in Amsterdam and are uncertain about which neighborhoods they may prefer. They d
 in Chicago. They'd like to get a recommendation for which neighborhood in Amsterdam is most similar to each neighborhood in Chicago. 
 
 In order to help the group make more informed decisions, I will use the four square data for each of the cities to retrieve venue
-type data and calculate a Pearson Correlation for each neighborhood pair based on similarity of venue type. 
+type data and calculate a value for each neighborhood pair based on similarity of venue type. I will then return the Amsterdam neighborhood 
+that is most similar to each Chicago neighborhood.
